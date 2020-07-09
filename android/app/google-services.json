@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016675883541",
+    "firebase_url": "https://storiq-5466a.firebaseio.com",
+    "project_id": "storiq-5466a",
+    "storage_bucket": "storiq-5466a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016675883541:android:e319bdda1ab1670a480c1c",
+        "android_client_info": {
+          "package_name": "com.vishnuworld.storiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016675883541-0ad33erlq05eodg02vbhdanpk4k222p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM9AdLLiXkF6qI30UPu3MvYGsk0c0kTJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016675883541-0ad33erlq05eodg02vbhdanpk4k222p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
